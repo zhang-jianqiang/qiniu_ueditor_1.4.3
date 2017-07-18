@@ -2,6 +2,7 @@ Ueditor七牛云存储版本
 ===========
 
 >注意事项 老版本请查看 : [https://github.com/widuu/qiniu_ueditor_1.4.3/tree/v1.0.0](https://github.com/widuu/qiniu_ueditor_1.4.3/tree/v1.0.0)
+目前使用时发现有问题，会提示后台配置错误，上传插件无法使用
 
 ### 新版本说明
 
